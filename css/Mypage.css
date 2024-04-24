@@ -1,0 +1,23 @@
+/* Style 1 */
+.readable-style-1 {
+    font-family: "Arial", sans-serif;
+    color:brown
+}
+
+/* Style 2 */
+.readable-style-2 {
+    font-family: "Helvetica", sans-serif;
+    color:chocolate;
+}
+
+/* Style 3 */
+.readable-style-3 {
+    font-family: "Georgia", serif;
+    color: #444;
+}
+
+/* Style 4 */
+.readable-style-4 {
+    font-family: "Roboto", sans-serif;
+    color: #555;
+}
